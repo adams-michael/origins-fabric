@@ -1,0 +1,14 @@
+{
+        "powers": [
+                "origins:rat_darkvision",
+                "origins:climbing",
+                "origins:rat_small",
+                "origins:rat_frail",
+                "origins:rat_gnawer"
+        ],
+        "icon": {
+                "item": "minecraft:rotten_flesh"
+        },
+        "order": 2,
+        "impact": 1
+}
